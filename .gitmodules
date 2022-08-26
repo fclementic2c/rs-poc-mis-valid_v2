@@ -17,3 +17,8 @@
 	path = OCA/purchase-workflow
 	url = git@github.com:OCA/purchase-workflow.git
 	branch = 15.0
+
+[submodule "ForgeFlow/purchase-workflow"]
+	path = ForgeFlow/purchase-workflow
+	url = git@github.com:ForgeFlow/purchase-workflow.git
+	branch = 15.0-mig-purchase_tier_validation
