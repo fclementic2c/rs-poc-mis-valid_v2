@@ -22,3 +22,8 @@
 	path = ForgeFlow/purchase-workflow
 	url = git@github.com:ForgeFlow/purchase-workflow.git
 	branch = 15.0-mig-purchase_tier_validation
+
+[submodule "Camille0907/mis-builder"]
+	path = Camille0907/mis-builder
+	url = git@github.com:Camille0907/mis-builder.git
+	branch = 15-add-mis_builder_alernative_commitment_generic
